@@ -7,7 +7,7 @@
     "header": {
         "title": "Agency",
         "logo_alt": "Agency logo",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
